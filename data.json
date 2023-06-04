@@ -1,0 +1,130 @@
+[
+    {
+      "title": "Open",
+      "tasks": [
+        {
+          "id": 4378578,
+          "summary": "Siparişler sayfasındaki \"Yeni Sipariş\" butonuna hover efekt eklenmeli",
+          "createdAt": "05.04.2023",
+          "tags": [
+            { "color": "info", "text": "Frontend" },
+            { "color": "warning", "text": "Priority: Orta" }
+          ],
+          "user": {
+            "image": "https://i.pravatar.cc/150?img=3",
+            "name": "Nazif Can DURGUT"
+          }
+        },
+        {
+          "id": 847845,
+          "summary": "Sipariş durumu değiştiğinde kullanıcıya bildirim gönderilmeli",
+          "createdAt": "20.04.2023",
+          "tags": [
+            { "color": "primary", "text": "Backend" },
+            { "color": "danger", "text": "Priority: High" }
+          ],
+          "user": {
+            "image": "https://i.pravatar.cc/150?img=10",
+            "name": "Elif ARDA AKIN"
+          }
+        },
+        {
+          "id": 84834452,
+          "summary": "Siparişlerin stoğa etkisi kontrol edilmeli. Stok şuan ikişer ikişer azalıyor.",
+          "createdAt": "20.04.2023",
+          "tags": [
+            { "color": "primary", "text": "Backend" },
+            { "color": "danger", "text": "Priority: High" },
+            { "color": "danger", "text": "BUG FIX" }
+          ],
+          "user": {
+            "image": "https://i.pravatar.cc/150?img=10",
+            "name": "Elif ARDA AKIN"
+          }
+        },
+        {
+          "id": 3488487,
+          "summary": "Kullanıcıya stokta azalan ürünler hakkında bilgilendirme sağlayacak popup tasarlanacak",
+          "createdAt": "18.04.2023",
+          "tags": [
+            { "color": "info", "text": "Frontend" },
+            { "color": "info", "text": "Priority: Düşük" }
+          ],
+          "user": {
+            "image": "https://i.pravatar.cc/150?img=3",
+            "name": "Nazif Can DURGUT"
+          }
+        }
+      ]
+    },
+    {
+      "title": "On Hold",
+      "tasks": [
+        {
+          "id": 4985899,
+          "summary": "Yeni Özellik: \"Yorumlar\" özelliğinin sisteme eklenmesi",
+          "createdAt": "05.05.2023",
+          "tags": [
+            { "color": "warning", "text": "PM" },
+            { "color": "warning", "text": "Priority: Orta" },
+            { "color": "info", "text": "Planlama" }
+          ],
+          "user": {
+            "image": "https://i.pravatar.cc/150?img=8",
+            "name": "Mustafa ŞAHİN"
+          }
+        },
+        {
+          "id": 34877854,
+          "summary": "Kullanıcıların içeriklerini sosyal medya platformlarında paylaşabilmelerini sağlayacak bir entegrasyon geliştirilmeli",
+          "createdAt": "17.05.2023",
+          "tags": [
+            { "color": "warning", "text": "PM" },
+            { "color": "danger", "text": "Priority: High" },
+            { "color": "info", "text": "Planlama" }
+          ],
+          "user": {
+            "image": "https://i.pravatar.cc/150?img=8",
+            "name": "Mustafa ŞAHİN"
+          }
+        },
+        {
+          "id": 1099894,
+          "summary": "Yeni ödeme yöntemi olarak \"Banka Havalesi\" seçeneği için gerekli aksiyonların alınması",
+          "createdAt": "29.05.2023",
+          "tags": [
+            { "color": "primary", "text": "Backend" },
+            { "color": "danger", "text": "Priority: High" },
+            { "color": "success", "text": "Özellik" }
+          ],
+          "user": {
+            "image": "https://i.pravatar.cc/150?img=10",
+            "name": "Elif ARDA AKIN"
+          }
+        }
+      ]
+    },
+    {
+      "title": "In Progress",
+      "tasks": [
+        {
+          "id": 8945893,
+          "summary": "Yeni ödeme yöntemi olarak \"Banka Havalesi\" seçeneğinin eklenip yanına \"Çok Yakında\" ibaresinin eklenmesi",
+          "createdAt": "28.05.2023",
+          "tags": [
+            { "color": "info", "text": "Frontend" },
+            { "color": "warning", "text": "Priority: Orta" },
+            { "color": "success", "text": "Özellik" }
+          ],
+          "user": {
+            "image": "https://i.pravatar.cc/150?img=3",
+            "name": "Nazif Can DURGUT"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Completed",
+      "tasks": []
+    }
+  ]
